@@ -9,7 +9,7 @@
 #include "counting_sort.h"
 #include "config.h"
 
-const int VOLUMES_TESTE[] = {100, 1000, 10000, 100000, 1000000};
+const int VOLUMES_TESTE[] = {100, 1000, 10000, 100000, 1000000, 25000000};
 const int NUM_VOLUMES = sizeof(VOLUMES_TESTE) / sizeof(VOLUMES_TESTE[0]);
 const int NUM_REPETICOES = 10;
 
